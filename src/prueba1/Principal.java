@@ -6,7 +6,7 @@ public class Principal {
 		System.out.println("Hola mundo java-git");
 		System.out.println("Línea de texto 1");
 		System.out.println("Línea de texto 2");
-
+		
 	}
 
 }
